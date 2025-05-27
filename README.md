@@ -1,4 +1,4 @@
-# 🌟 My Personal Portfolio
+# My Personal Portfolio
 
 Hi! I'm Mariswami, a passionate and motivated fresher excited to start my journey in tech. This is my personal portfolio website where I showcase my projects, skills, and a little bit about myself.
 
@@ -10,6 +10,7 @@ Check it out here: https://mariswami-s-1718.github.io/My-Portfolio/
 
 - 👨‍💻 About Me section
 - 🛠️ Skills and tools I'm learning
+- 📜 Certificates I've recieved
 - 📂 Projects I've worked on
 - 📫 Contact form to reach out to me
 
