@@ -4,7 +4,7 @@ Hi! I'm Mariswami, a passionate and motivated fresher excited to start my journe
 
 ## 🔗 Live Preview
 
-Check it out here:
+Check it out here: https://mariswami-s-1718.github.io/My-Portfolio/
 
 ## 💡 What’s Inside?
 
